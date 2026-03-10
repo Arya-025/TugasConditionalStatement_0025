@@ -31,3 +31,7 @@ string kondisiBMI(float bmi){
         return "Obesitas";
     }
 }
+
+int main(){
+    
+}
