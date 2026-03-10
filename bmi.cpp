@@ -39,5 +39,8 @@ int main(){
 
     bmi = hitungBMI(berat, tinggi);
 
-    
+    cout << "\nBMI anda: " << bmi << endl;
+    cout << "Kondisi: " << kondisiBMI(bmi) << endl;
+
+    return 0;
 }
